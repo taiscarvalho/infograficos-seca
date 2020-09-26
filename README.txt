@@ -1,0 +1,1 @@
+Os infográficos foram elaborados como parte da metodologia de desenvolvimento do plano proativo de secas para os municípios visitados, para auxiliar a identificação de problemas ambientais, econômicos, sociais e de oferta hídrica associados ao abastecimento e distribuição de água.
