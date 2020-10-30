@@ -1,1 +1,2 @@
-Os infográficos fizeram parte da metodologia de elaboração do plano proativo de secas para os municípios visitados, para auxiliar a identificação de problemas ambientais, econômicos, sociais e de oferta hídrica associados ao abastecimento e distribuição de água.
+## About
+The infographics are part of the methodology for preparing a proactive drought plan, to help identify environmental, economic, social and water supply problems associated with water supply and distribution.
